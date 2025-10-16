@@ -235,7 +235,7 @@
   "partOf": [
     {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
-      "type": "Collection",
+      "type": "Collection"
     }
   ],
   "thumbnail": [
