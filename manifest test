@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "This is the label"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4772/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Edwyn piece"
+                ]
+            }
+        },
+        {
+            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "fales_mss208_cuid100"
+                ]
+            }
+        }
+}
