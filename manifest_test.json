@@ -4,10 +4,6 @@
     "type": "Collection",
     "items": [
         {
-            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4772/manifest.json",
-            "type": "Manifest"
-        },
-        {
             "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
             "type": "Manifest"
         }
