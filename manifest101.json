@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "bcb2507.github.io/jsontest/manifest101.json",
+  "id": "https://bcb2507.github.io/jsontest/manifest101.json",
   "type": "Manifest",
   "label": {
         "none": [
