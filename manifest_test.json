@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://bcb2507.github.io/jsontest/newmanifest101.json",
+    "id": "https://bcb2507.github.io/jsontest/manifest101.json",
     "type": "Collection",
     "items": [
         {
-            "id": "https://bcb2507.github.io/jsontest/newmanifest101.json",
+            "id": "https://bcb2507.github.io/jsontest/manifest101.json",
             "type": "Manifest"
         }
     ]
