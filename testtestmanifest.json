@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bcb2507.github.io/jsontest/testtestmanifest.json",
+  "type": "Manifest",
+  "label": {
+        "none": [
+            "Promissory Note - David Fanning & John Hudson: 1780 August 10"
+        ]
+    },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "width": 4691,
+      "height": 2996,
+      "thumbnail": [
+        {
+          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1",
+              "type": "ImageService2",
+              "profile": "level1"
+            }
+          ]
+        }
+      ]
+     }
+]
+}
