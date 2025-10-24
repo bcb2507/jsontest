@@ -3,9 +3,8 @@
   "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
   "type": "Manifest",
   "label": {
-        "none": [
             "Promissory Note - David Fanning & John Hudson: 1780 August 10"
-        ]
+
     },
   "behavior": [
     "paged"
