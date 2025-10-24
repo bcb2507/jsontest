@@ -16,6 +16,11 @@
       "type": "Canvas",
       "label": {
         "none": [
+          "page"
+        ]
+      }
+        "value": {
+        "none": [
           "1"
         ]
       },
@@ -71,6 +76,11 @@
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/2",
       "type": "Canvas",
       "label": {
+        "none": [
+          "page"
+        ]
+      }
+      "value": {
         "none": [
           "2"
         ]
