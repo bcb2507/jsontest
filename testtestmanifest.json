@@ -12,7 +12,7 @@
   ],
   "items": [
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/1",
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
       "type": "Canvas",
       "label": {
         "none": [
@@ -23,14 +23,14 @@
       "height": 2996,
       "thumbnail": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1/full/!300,300/0/default.jpg",
+          "id": "https://stage-sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1/full/!300,300/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "height": 300,
           "width": 300,
           "service": [
             {
-              "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1",
+              "id": "https://stage-sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1",
               "type": "ImageService2",
               "profile": "level1"
             }
