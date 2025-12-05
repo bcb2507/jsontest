@@ -1,0 +1,19 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Sylvester Manor Archive - Fales Library & Special Collections"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://bcb2507.github.io/jsontest/manifest%20single%20test.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+           "\"List of Money Received\": 1782 May 17"
+        ]
+      }
+    }
