@@ -466,6 +466,15 @@
           "Financial Record with Notation"
         ]
       }
+    },
+    {
+      "id": "https://stage-sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1709/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+         "Beauchamp, William Martin: Baldwinsville, NY"
+        ]
+      }
     }
   ]
 }
