@@ -1,0 +1,1306 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Sylvester Manor Archive - Fales Library & Special Collections"
+    ]
+  },
+  "items": [
+"{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid10"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1000"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1719/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1001"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1721/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1003"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1017/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1017"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1072/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1072"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1073/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1073"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1082/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1082"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1084/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1084"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1086/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1086"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1087/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1087"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1088/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1088"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1089/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1089"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1090/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1090"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1095/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1095"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1101/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1101"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1102/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1102"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1110/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1110"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1111/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1111"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1112/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1112"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1113/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1113"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1114/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1114"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1115/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1115"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1133/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1133"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1137/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1137"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1182/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1182"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1183/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1183"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref4492/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1399"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1415/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1415"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1580/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1580"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1583/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1583"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1616/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1616"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1637/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1637"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1645/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1645"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1648/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1648"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1652/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1652"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1654/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1654"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1672/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1672"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1675/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1675"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1705/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1705"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1709/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1709"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1713/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1713"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1723/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1723"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1726/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1726"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1734/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1734"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1738/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1738"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1764/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1764"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1767/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1767"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1772/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1772"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1773/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1773"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1795/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1795"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1826/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1826"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid184/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid184"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1856/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1856"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1860/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1860"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid392/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid392"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid401/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid401"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid402/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid402"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid403/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid403"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid407/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid407"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid408/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid408"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid409/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid409"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid424/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid424"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1125/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid427"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid452/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid452"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid454/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid454"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref15/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4751"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref20/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4756"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref35/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4770"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref36/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4771"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref37/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4772"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref38/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4773"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref43/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4778"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref46/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4781"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref69/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4799"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref79/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4809"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid483/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid483"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref106/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4833"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref108/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4835"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref110/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4837"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4848/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4848"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid486/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid486"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4875/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4875"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref228/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4945"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref232/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4949"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref235/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4952"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref242/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4959"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref250/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4967"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref260/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4977"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref263/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4980"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref271/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4988"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref274/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4991"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref292/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5008"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid501/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid501"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref323/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5038"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref327/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5042"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref328/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5043"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref333/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5048"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref342/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5057"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref358/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5073"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref396/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5112"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref400/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5116"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref404/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5120"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref461/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5177"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref490/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5206"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref506/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5222"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref523/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5240"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref527/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5244"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref528/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5245"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref534/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5251"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref557/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5274"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref561/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5278"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref574/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5291"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref575/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5292"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref594/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5311"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref597/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5314"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref598/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5315"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref624/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5341"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref632/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5349"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref634/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5351"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref640/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5357"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref672/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5389"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid540/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid540"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref5593/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5415"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref5610/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid5433"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid678/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid678"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid726/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid726"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid82/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid82"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid845/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid845"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid856/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid856"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid868/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid868"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid886/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid886"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid895/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid895"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid896/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid896"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid897/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid897"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid898/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid898"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid910/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid910"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid931/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid931"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid934/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid934"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid966/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid966"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1694/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid977"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1703/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid985"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1705/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid987"
+        ]
+      }
+    },
+{
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1707/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid989"
+        ]
+      }
+    }"
