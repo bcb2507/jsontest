@@ -8,7 +8,7 @@
     ]
   },
   "items": [
-"{
+{
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
       "type": "Manifest",
       "label": {
@@ -1303,4 +1303,4 @@
           "fales_mss208_cuid989"
         ]
       }
-    }"
+    }
