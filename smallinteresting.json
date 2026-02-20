@@ -8,74 +8,12 @@
     ]
   },
   "items": [
-     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Account - Ezra L'Hommedieu with Sloop John Butler"
-        ]
-      },
        {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
           "Smith, Elihu Hubbard"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1719/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Smith, George"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1721/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Troup, Robert: 'About Negroes Imported with Settlers'"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1017/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Appointment - Ezra L'Hommedieu, 'Commissioner to Examine Claims of the Stockbridge Indians by John Jay, Governor of NY'"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1072/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Buffett, WP: Fresh Pond, NY"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1073/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Case, Ebenezer W: Southold, NY"
-        ]
-      }
-    },
-    {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1082/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "Copp, GS: Sag Harbor, NY"
         ]
       }
     }
