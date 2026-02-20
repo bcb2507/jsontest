@@ -13,7 +13,7 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid10"
+          "Account - Ezra L'Hommedieu with Sloop John Butler"
         ]
       },
        {
@@ -26,20 +26,11 @@
       }
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "en": [
-          "fales_mss208_cuid1000"
-        ]
-      }
-    },
-    {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1719/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1001"
+          "Smith, George"
         ]
       }
     },
@@ -48,7 +39,7 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1003"
+          "Troup, Robert: 'About Negroes Imported with Settlers'"
         ]
       }
     },
@@ -57,7 +48,7 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1017"
+          "Appointment - Ezra L'Hommedieu, 'Commissioner to Examine Claims of the Stockbridge Indians by John Jay, Governor of NY'"
         ]
       }
     },
@@ -66,7 +57,7 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1072"
+          "Buffett, WP: Fresh Pond, NY"
         ]
       }
     },
@@ -75,7 +66,7 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1073"
+          "Case, Ebenezer W: Southold, NY"
         ]
       }
     },
@@ -84,7 +75,7 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "fales_mss208_cuid1082"
+          "Copp, GS: Sag Harbor, NY"
         ]
       }
     }
