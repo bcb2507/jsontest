@@ -8,12 +8,12 @@
     ]
   },
   "items": [
-       {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
+      {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
       "type": "Manifest",
       "label": {
         "en": [
-          "Smith, Elihu Hubbard"
+          "fales_mss208_cuid10"
         ]
       }
     }
