@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Sylvester Manor Archive - Fales Library & Special Collections"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid10"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1000"
+        ]
+      }
+    }
+  ]
+}
