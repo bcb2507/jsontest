@@ -15,6 +15,77 @@
         "en": [
           "fales_mss208_cuid10"
         ]
+      },
+       {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Smith, Elihu Hubbard"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1718/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1000"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1719/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1001"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/MSS208_ref1721/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1003"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1017/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1017"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1072/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1072"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1073/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1073"
+        ]
+      }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid1082/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid1082"
+        ]
       }
     }
   ]
