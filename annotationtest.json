@@ -126,11 +126,11 @@
   ],
    "annotations": [
         {
-                    "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json/canvas/1/annotations",
+                    "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid10/manifest.json/canvas/1/annotations/transcription",
+                            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations/transcription",
                             "type": "Annotation",
                             "motivation": "commenting",
                             "body": {
