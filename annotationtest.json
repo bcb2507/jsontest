@@ -65,7 +65,26 @@
             }
           ]
         }
-      ]
+      ],
+      "annotations": [
+        {
+                    "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations/transcription",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": {
+                                "type": "TextualBody",
+                                "language": "en",
+                                "format": "text/markdown",
+                                "value": "*Translated by Paul Naylor*   \n\nIn the name of God, the Most Gracious the Most Merciful. May God's blessings and peace be upon our master Muḥammad and on his family and companions. Related by ʿAlī ibn Abī Ṭālib from the Prophet, peace be upon him. Whoever writes out this amulet and mixes it with soil from the marketplace and from the ruler's house and drinks it, God will grant him affection, acceptance, power, and wealth among the people. And this is from Abū Bakr al-Ṣiddīq: Whoever writes it and puts it in the horn of a ram and buries it in your house, you will witness [the love] of people. And from ʿUmar ibn al-Khaṭṭāb: Whoever writes it out and attaches it to his shirt, magic will not enter you, even if it were the magic of Pharaoh, God curse him. And from ʿUthmān ibn ʿAffān: Whoever writes it and attaches it to him, iron [weapons] will not harm him, even if they were [as numerous] as rainwater or the leaves on trees. God will protect him. And whoever attaches it to his house, God will save you from the thief [...].[^1]\n\n[^1]: Followed by a series of symbols, often said to be the language of the *jinn* learnt by Solomon. Manuscript collections from West Africa often include conversion tables translating these symbols to letters of the Arabic alphabet. See for example this manuscript from the Aboubacar Ben Said Library in Timbuktu, Mali, accessible online through the Hill Museum and Manuscript Library's Reading Room (HMML Project number SAV ABS 07368): <https://w3id.org/vhmml/readingRoom/view/158985>."
+                            }
+                        }
+                    ]
+                }
+              ]
     },
     {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/page/2/page",
@@ -122,27 +141,9 @@
           ]
         }
       ]
-    }
-  ],
-   "annotations": [
-        {
-                    "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations/transcription",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "body": {
-                                "type": "TextualBody",
-                                "language": "en",
-                                "format": "text/markdown",
-                                "value": "*Translated by Paul Naylor*   \n\nIn the name of God, the Most Gracious the Most Merciful. May God's blessings and peace be upon our master Muḥammad and on his family and companions. Related by ʿAlī ibn Abī Ṭālib from the Prophet, peace be upon him. Whoever writes out this amulet and mixes it with soil from the marketplace and from the ruler's house and drinks it, God will grant him affection, acceptance, power, and wealth among the people. And this is from Abū Bakr al-Ṣiddīq: Whoever writes it and puts it in the horn of a ram and buries it in your house, you will witness [the love] of people. And from ʿUmar ibn al-Khaṭṭāb: Whoever writes it out and attaches it to his shirt, magic will not enter you, even if it were the magic of Pharaoh, God curse him. And from ʿUthmān ibn ʿAffān: Whoever writes it and attaches it to him, iron [weapons] will not harm him, even if they were [as numerous] as rainwater or the leaves on trees. God will protect him. And whoever attaches it to his house, God will save you from the thief [...].[^1]\n\n[^1]: Followed by a series of symbols, often said to be the language of the *jinn* learnt by Solomon. Manuscript collections from West Africa often include conversion tables translating these symbols to letters of the Arabic alphabet. See for example this manuscript from the Aboubacar Ben Said Library in Timbuktu, Mali, accessible online through the Hill Museum and Manuscript Library's Reading Room (HMML Project number SAV ABS 07368): <https://w3id.org/vhmml/readingRoom/view/158985>."
-                            }
-                        }
-                    ]
-                }
-            ],
+    },
+            ]
+          ],
   "metadata": [
     {
       "label": {
