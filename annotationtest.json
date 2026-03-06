@@ -61,14 +61,14 @@
                 "height": 2996,
                 "width": 4691
               },
-              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/page/1"
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/page/2/page",
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -95,7 +95,7 @@
       ],
       "items": [
         {
-          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/2",
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/page/2",
           "type": "AnnotationPage",
           "items": [
             {
