@@ -3,21 +3,15 @@
   "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json",
   "type": "Manifest",
   "label": {
-    "en": [
-      "Promissory Note - David Fanning & John Hudson"
-    ]
+    "en": ["Promissory Note - David Fanning & John Hudson"]
   },
-  "behavior": [
-    "paged"
-  ],
+  "behavior": ["paged"],
   "items": [
     {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/1",
       "type": "Canvas",
       "label": {
-        "en": [
-          "1"
-        ]
+        "en": ["1"]
       },
       "width": 4691,
       "height": 2996,
@@ -33,6 +27,26 @@
               "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/1",
               "type": "ImageService2",
               "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations/transcription",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/markdown",
+                "value": "*Markdown Heading*   \n\n Markdown example content. This is a transcription of the text on the page. It can include **bold** and *italic* text, as well as [links](https://example.com) and other markdown features."
+              },
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/1"
             }
           ]
         }
@@ -71,9 +85,7 @@
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/page/2/page",
       "type": "Canvas",
       "label": {
-        "en": [
-          "2"
-        ]
+        "en": ["2"]
       },
       "width": 4699,
       "height": 3007,
@@ -89,6 +101,26 @@
               "id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss208_cuid100/2",
               "type": "ImageService2",
               "profile": "level1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/2/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/2/annotations/transcription",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/markdown",
+                "value": "*Another Heading*   \n\n More markdown example content. This time with a footnote and a blockquote.\n\n This is a footnote[^1].\n\n > This is a blockquote.\n\n [^1]: This is the footnote content."
+              },
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/2"
             }
           ]
         }
@@ -124,31 +156,10 @@
       ]
     }
   ],
-   "annotations": [
-        {
-                    "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json/canvas/1/annotations/transcription",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "body": {
-                                "type": "TextualBody",
-                                "language": "en",
-                                "format": "text/markdown",
-                                "value": "*Translated by Paul Naylor*   \n\nIn the name of God, the Most Gracious the Most Merciful. May God's blessings and peace be upon our master Muḥammad and on his family and companions. Related by ʿAlī ibn Abī Ṭālib from the Prophet, peace be upon him. Whoever writes out this amulet and mixes it with soil from the marketplace and from the ruler's house and drinks it, God will grant him affection, acceptance, power, and wealth among the people. And this is from Abū Bakr al-Ṣiddīq: Whoever writes it and puts it in the horn of a ram and buries it in your house, you will witness [the love] of people. And from ʿUmar ibn al-Khaṭṭāb: Whoever writes it out and attaches it to his shirt, magic will not enter you, even if it were the magic of Pharaoh, God curse him. And from ʿUthmān ibn ʿAffān: Whoever writes it and attaches it to him, iron [weapons] will not harm him, even if they were [as numerous] as rainwater or the leaves on trees. God will protect him. And whoever attaches it to his house, God will save you from the thief [...].[^1]\n\n[^1]: Followed by a series of symbols, often said to be the language of the *jinn* learnt by Solomon. Manuscript collections from West Africa often include conversion tables translating these symbols to letters of the Arabic alphabet. See for example this manuscript from the Aboubacar Ben Said Library in Timbuktu, Mali, accessible online through the Hill Museum and Manuscript Library's Reading Room (HMML Project number SAV ABS 07368): <https://w3id.org/vhmml/readingRoom/view/158985>."
-                            }
-                        }
-                    ]
-                }
-            ],
   "metadata": [
     {
       "label": {
-        "en": [
-          "Resource"
-        ]
+        "en": ["Resource"]
       },
       "value": {
         "en": [
@@ -158,21 +169,15 @@
     },
     {
       "label": {
-        "en": [
-          "Finding Aid Title"
-        ]
+        "en": ["Finding Aid Title"]
       },
       "value": {
-        "en": [
-          "Guide to the Sylvester Manor Archive MSS.208"
-        ]
+        "en": ["Guide to the Sylvester Manor Archive MSS.208"]
       }
     },
     {
       "label": {
-        "en": [
-          "Permanent Link"
-        ]
+        "en": ["Permanent Link"]
       },
       "value": {
         "en": [
@@ -182,81 +187,55 @@
     },
     {
       "label": {
-        "en": [
-          "Provider"
-        ]
+        "en": ["Provider"]
       },
       "value": {
-        "en": [
-          "Fales Library & Special Collections"
-        ]
+        "en": ["Fales Library & Special Collections"]
       }
     },
     {
       "label": {
-        "en": [
-          "Finding Aid URL"
-        ]
+        "en": ["Finding Aid URL"]
       },
       "value": {
-        "en": [
-          "https://findingaids.library.nyu.edu/fales/mss_208/"
-        ]
+        "en": ["https://findingaids.library.nyu.edu/fales/mss_208/"]
       }
     },
     {
       "label": {
-        "en": [
-          "Language of Material"
-        ]
+        "en": ["Language of Material"]
       },
       "value": {
-        "en": [
-          "Materials are in English."
-        ]
+        "en": ["Materials are in English."]
       }
     },
     {
       "label": {
-        "en": [
-          "Title"
-        ]
+        "en": ["Title"]
       },
       "value": {
-        "en": [
-          "Promissory Note - David Fanning & John Hudson"
-        ]
+        "en": ["Promissory Note - David Fanning & John Hudson"]
       }
     },
     {
       "label": {
-        "en": [
-          "Series"
-        ]
+        "en": ["Series"]
       },
       "value": {
-        "en": [
-          "Record Group II: L&#39;Hommedieu Family"
-        ]
+        "en": ["Record Group II: L&#39;Hommedieu Family"]
       }
     },
     {
       "label": {
-        "en": [
-          "Date"
-        ]
+        "en": ["Date"]
       },
       "value": {
-        "en": [
-          "1780 August 10"
-        ]
+        "en": ["1780 August 10"]
       }
     },
     {
       "label": {
-        "en": [
-          "Sponsor"
-        ]
+        "en": ["Sponsor"]
       },
       "value": {
         "en": [
@@ -270,18 +249,14 @@
       "id": "https://dlib.nyu.edu/",
       "type": "Agent",
       "label": {
-        "en": [
-          "NYU Digital Library Technology Services"
-        ]
+        "en": ["NYU Digital Library Technology Services"]
       },
       "homepage": [
         {
           "id": "https://dlib.nyu.edu/",
           "type": "Text",
           "label": {
-            "en": [
-              "NYU Digital Library Technology Services"
-            ]
+            "en": ["NYU Digital Library Technology Services"]
           },
           "format": "text/html"
         }
@@ -303,9 +278,7 @@
       "id": "https://sites.dlib.nyu.edu/viewer/photos/fales_mss208_cuid100/1",
       "type": "Text",
       "label": {
-        "en": [
-          "View on NYU DLTS Viewer"
-        ]
+        "en": ["View on NYU DLTS Viewer"]
       },
       "format": "text/html"
     }
@@ -315,9 +288,7 @@
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
       "type": "Collection",
       "label": {
-        "en": [
-          "Sylvester Manor Archive"
-        ]
+        "en": ["Sylvester Manor Archive"]
       }
     }
   ],
@@ -339,9 +310,7 @@
   ],
   "requiredStatement": {
     "label": {
-      "en": [
-        "Rights"
-      ]
+      "en": ["Rights"]
     },
     "value": {
       "en": [
