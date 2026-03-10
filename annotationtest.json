@@ -120,7 +120,7 @@
                 "format": "text/markdown",
                 "value": "*Another Heading*   \n\n More markdown example content. This time with a footnote and a blockquote.\n\n This is a footnote[^1].\n\n > This is a blockquote.\n\n [^1]: This is the footnote content."
               },
-              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/canvas/2"
+              "target": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/page/2/page"
             }
           ]
         }
