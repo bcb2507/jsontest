@@ -125,16 +125,19 @@
     }
   ],
   "metadata": [
-    {
+	    {
 "label": {
 	"en": [
 		"Subject Area"
-	[
+	]
+},
 "value": {
 	"en": [
 		"Slavery"
 	]
-	  {
+	}	
+},
+    {
       "label": {
         "en": [
           "Resource"
