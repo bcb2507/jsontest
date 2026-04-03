@@ -747,6 +747,15 @@
       }
     },
     {
+      "id": "https://bcb2507.github.io/jsontest/edwynblogonlymetadata.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4772"
+        ]
+      }
+    },
+    {
       "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4083/manifest.json",
       "type": "Manifest",
       "label": {
