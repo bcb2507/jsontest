@@ -126,6 +126,17 @@
   ],
   "metadata": [
     {
+"label": {
+	"en": [
+		"Subject Area"
+	[
+},
+"value": {
+	"en": [
+		"Slavery"
+	]
+},
+	  {
       "label": {
         "en": [
           "Resource"
@@ -143,19 +154,6 @@
           "Finding Aid Title"
         ]
       },
-	},
-      {
-"label": {
-	"en": [
-		"Subject Area"
-	[
-},
-		{
-"value": {
-	"en": [
-		"Slavery"
-	]
-},
       "value": {
         "en": [
           "Guide to the Sylvester Manor Archive MSS.208"
