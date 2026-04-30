@@ -763,6 +763,15 @@
           "fales_mss208_cuid4083"
         ]
       }
+    },
+    {
+      "id": "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid4756/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "fales_mss208_cuid4756"
+        ]
+      }
     }
   ]
 }
